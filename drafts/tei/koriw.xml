@@ -40,8 +40,14 @@
 		</profileDesc>
 	</teiHeader>
 	<text>
+		<front xml:id="front-1">
+			<titlePage xml:id="front-1-titlePage-1">
+				<docTitle xml:id="front-1-titlePage-1-docTitle-1">
+					<titlePart xml:id="front-1-titlePage-1-docTitle-1-titlePart-1">ԿՈՐԻՒՆ, ՎԱՐՔ ՄԱՇՏՈՑԻ</titlePart>
+				</docTitle>
+			</titlePage>
+		</front>
 		<body>
-			<title>ԿՈՐԻՒՆ, ՎԱՐՔ ՄԱՇՏՈՑԻ</title>
 			<pb n="22" />
 			<p xml:id="p-1">
 				<lb n="1" />ՊԱՏՄՈՒԹԻՒՆ<lb n="2" />ՎԱՐՈՒՑ ԵՎ ՄԱՀՈՒԱՆ<lb n="3" />ԱՌՆ ԵՐԱՆԵԼԻՈՅ ՍՐԲՈՅՆ ՄԱՇԹՈՑԻ1 ՎԱՐԴԱՊԵՏԻ<lb n="4" />ՄԵՐՈՅ ԹԱՐԳՄԱՆՉԻ<lb n="5" />Ի ԿՈՐԻՒՆ ՎԱՐԴԱՊԵՏԷ<lb n="6" />ՅԱՇԱԿԵՐՏԷ ՆՈՐԻՆ</p>
