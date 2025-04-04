@@ -1,4 +1,4 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0/">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -35,11 +35,11 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="xcl-Armn-x-old-armenian">Classical-Middle Armenian</language>
+				<language ident="xcl-Armn">Classical-Middle Armenian</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
-	<text xml:lang="xcl-Armn-x-old-armenian">
+	<text xml:lang="xcl-Armn">
 		<front xml:id="front-1">
 			<titlePage xml:id="front-1-titlePage-1">
 				<docTitle xml:id="front-1-titlePage-1-docTitle-1">
