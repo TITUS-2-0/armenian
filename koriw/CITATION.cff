@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: 'Koriwn, Vark Mastoci: Patmowtՙiwn varowcՙ ew mahown Maštocՙi'
+version: unreleased
+contributors:
+- name: H. Sargsyan
+  roles:
+  - digitization
+- name: Jost Gippert
+  roles:
+  - TITUS version
+- name: Florian Matter
+  roles:
+  - TEI version
+date-released: 2025-01-15
+message: 'Derived from: Koriwn. 1941. Varkՙ Maštocՙi. Edited by M. Abełean. Yerevan.'
+preferred-citation: 'Digital version of Koriwn, Vark Mastoci: Patmowtՙiwn varowcՙ
+  ew mahown Maštocՙi by Koriwn (unreleased). 2025-01-15. By: Jost Gippert, Florian
+  Matter, H. Sargsyan. In: Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt:
+  Goethe University.'
