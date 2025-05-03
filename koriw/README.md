@@ -33,13 +33,14 @@ text (@xml:lang=xcl-Armn)
       docTitle (@xml:id)
         titlePart (@xml:id)
   body
-    pb (@n)
     p (@xml:id)
-      lb (@n) (multiple)
+      [lb (@n) (multiple)]
     div (@data-level=1, @n, @type=chapter, @xml:id) (multiple)
-      p (@xml:id)
-        lb (@n) (multiple)
-        pb (@n)
+      p (@xml:id) (multiple)
+        [lb (@n) (multiple)]
+        [pb (@n) (multiple)]
+      [pb (@n) (multiple)]
+    [pb (@n)]
 ```
 
 ### Structure Example
