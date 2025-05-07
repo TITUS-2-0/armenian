@@ -42,7 +42,7 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="xcl-Armn">Old Armenian</language>
+				<language ident="xcl-Armn" ana="primary">Old Armenian</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
